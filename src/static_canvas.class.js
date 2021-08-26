@@ -45,6 +45,7 @@
       this.renderAndResetBound = this.renderAndReset.bind(this);
       this.requestRenderAllBound = this.requestRenderAll.bind(this);
       this._initStatic(el, options);
+      alert("hi there from github");
     },
 
     /**
